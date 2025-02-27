@@ -11,3 +11,7 @@
 ```sh
 javac Elevator.java ElevatorMachine.java
 java ElevatorMachine
+
+### GUI Version
+javac Elevator.java ElevatorGUI.java
+java ElevatorGUI
